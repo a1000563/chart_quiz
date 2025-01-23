@@ -36,10 +36,10 @@ const pageContent = {
   ),
   3: (
     <CRow>
-      <CCol md={12} lg={12}>
+      <CCol md={12} lg={6}>
         <ComponentOne />
       </CCol>
-      <CCol md={12} lg={12}>
+      <CCol md={12} lg={6}>
         <ComponentTwo />
       </CCol>
     </CRow>
