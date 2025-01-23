@@ -2,12 +2,6 @@ import React from 'react'
 import {
     CContainer,
     CRow,
-    CCol,
-    CCard,
-    CCardBody,
-    CCardTitle,
-    CCardText,
-    CButton,
   } from '@coreui/react';
   import { BarChart } from './bar-chart';
 
